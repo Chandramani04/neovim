@@ -1,6 +1,8 @@
 # neovim
 1.git clone in .config/nvim folder 
 
+git clone git@github.com:Chandramani04/neovim.git ~/.config/nvim
+
 2.Copy below command and paste in terminal
 
   git clone --depth 1 https://github.com/wbthomason/packer.nvim\
