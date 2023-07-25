@@ -10,5 +10,6 @@ git clone git@github.com:Chandramani04/neovim.git ~/.config/nvim
  
  3.Open nvim and type in normal mode 
  
-    :PackerSync
+    :PackerSync 
+  4 : usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits   (   c++ headers location ) 
    
