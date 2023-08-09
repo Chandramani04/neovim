@@ -13,3 +13,4 @@ git clone git@github.com:Chandramani04/neovim.git ~/.config/nvim
     :PackerSync 
   4 : usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits   (   c++ headers location ) 
    
+5. https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular
